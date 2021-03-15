@@ -3,33 +3,33 @@ Node01 is wireless mesh node. This node is the basis of backbone network.
 
 ###  Progress checklist
 **Documentation**
-- [ ] Technical specifications added. (4h)
-- [ ] Description. (1h)
-- [ ] Hardware. (1h)
-- [ ] Source. (0h)
+- [ ] Technical specifications added.
+- [ ] Description.
+- [ ] Hardware.
+- [ ] Source.
 
 **Hardware**
-- [ ] Schematics designed. (1h)
-- [ ] Simulations. (0h)
-- [ ] PCB routed. (0h)
-- [ ] Simulations. (0h)
-- [ ] Rev. 1 manufactured. (0h)
-- [ ] Rev. 1 tested. (0h)
-- [ ] Changes to Rev. 1 made. (0h)
-- [ ] Rev. 2 manufactured. (0h)
-- [ ] Rev. 2 tested. (0h)
-- [ ] Test passed. (0h)
+- [ ] Schematics designed.
+- [ ] Simulations.
+- [ ] PCB routed.
+- [ ] Simulations.
+- [ ] Rev. 1 manufactured.
+- [ ] Rev. 1 tested.
+- [ ] Changes to Rev. 1 made.
+- [ ] Rev. 2 manufactured.
+- [ ] Rev. 2 tested.
+- [ ] Test passed.
 
 
 **Software**
-- [ ] Coding style guidleines added. (0h)
-- [ ] Project guidlines added. (0h)
-- [ ] Project organized. (0h)
-- [ ] Build system created. (0h)
-- [ ] Unit test system created. (0h)
+- [ ] Coding style guidleines added.
+- [ ] Project guidlines added.
+- [ ] Project organized.
+- [ ] Build system created.
+- [ ] Unit test system created.
 - [ ] ... TBA
-- [ ] MVP. (0h)
-- [ ] Release of v.1.0.0. (0h)
+- [ ] MVP.
+- [ ] Release of v.1.0.0
 
 ### Requirements
 **Hardware**
