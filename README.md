@@ -7,6 +7,7 @@ Node01 is wireless mesh node. This node is the basis of backbone network.
 - [ ] Description. (1h)
 - [ ] Hardware. (1h)
 - [ ] Source. (0h)
+
 **Hardware**
 - [ ] Schematics designed. (1h)
 - [ ] Simulations. (0h)
@@ -52,11 +53,12 @@ Node01 is wireless mesh node. This node is the basis of backbone network.
 * Event based cooperative scheduler(in plans)
 * Event-driven active object paradigm
 * Or some of RTOS
-* Modular hardware part i.e. change in base board does not change logic of
-operation. Hardware are accessed throught API.
+* Modular hardware dependant part i.e. change in base board does not change logic
+of operation. Hardware are accessed throught API.
 * C++ mixed with C and ASM for performance critical code sections(if possible)
 * FOTA update
 * Communication security: TBD !
 * Minimal maintenance concept
 * Self test feature
 * Delay reliable communication
+*
