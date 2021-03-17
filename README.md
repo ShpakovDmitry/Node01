@@ -1,6 +1,8 @@
 # Node01
 Node01 is wireless mesh node. This node is the basis of backbone network.
 
+![BlockScheme](docs/images/BlockScheme.png)
+
 ###  Progress checklist
 **Documentation**
 - [ ] Technical specifications added.
@@ -45,7 +47,8 @@ Node01 is wireless mesh node. This node is the basis of backbone network.
 * minimum IP-63 protection
 * Self monitor feature (integral temperature, battery lifetime monitoring)
 * Flash storage IC
-*
+* UART interface
+* 
 
 **Software**
 * Proprietary 2.4GHz protocol
