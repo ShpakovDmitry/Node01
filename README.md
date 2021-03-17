@@ -1,6 +1,10 @@
 # Node01
 Node01 is wireless mesh node. This node is the basis of backbone network.
+
+###### Network example:
 ![netEample](docs/images/NetExample.png)
+
+###### Node01 block scheme:
 ![BlockScheme](docs/images/BlockScheme.png)
 
 ###  Progress checklist
