@@ -15,7 +15,6 @@ Node01 is wireless mesh node. This node is the basis of backbone network.
 * Autonomous power supply with a backup battery source
 * Energy storage is supercap or LiFePO4(operates at low temperatures)
 * Power connector for external solar panel or another energy source if available
-* RF front end - range extender, switchable
 * Switchable antenna to on-board or external SMA connector
 * -40...+80 C deg outdoor temperature of operation
 * minimum IP-63 protection
