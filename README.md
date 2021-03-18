@@ -76,4 +76,4 @@ of operation. Hardware are accessed throught API.
 - [ ] MVP.
 - [ ] Release of v.1.0.0
 
-
+![ProjectLogs](docs/ProjectLogs/README.md)
