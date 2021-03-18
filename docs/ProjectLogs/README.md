@@ -2,11 +2,17 @@
 > The purpose of this is to write decisions and changes made to project.  
 
 Put:  
-* commit hash at the begining of discussion.
-* And date.
-* Also reporter name.  
+* current commit hash i.e. at the begining of discussion.
+* Date.
+* Reporter name.  
+* Problem description.
 
 ---
+
+## Table of contents
+
+1. [Power consumption analysis](#power-consumption-analysis)
+1. [MPPT controller](#mppt-controller)
 
 ##### Power consumption analysis.  
 ```
