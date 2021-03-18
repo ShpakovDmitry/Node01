@@ -6,6 +6,8 @@ Put:
 * And date.
 * Also reporter name.  
 
+---
+
 ##### Power consumption analysis.  
 ```
        Number: 1  
