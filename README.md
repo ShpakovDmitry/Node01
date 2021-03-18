@@ -43,6 +43,7 @@ of operation. Hardware are accessed throught API.
 
 ###### Power consumption analysis
 ![PowerConsumption](docs/images/PowerConsumption.png)
+![EnergyStored](docs/images/PowerConsumption_next_1.png)
 
 ###  Progress checklist
 **Documentation**
