@@ -1,5 +1,6 @@
 # Project logs
 > The purpose of this is to write decisions and changes made to project.  
+
 Put:  
 * commit hash at the begining of discussion.
 * And date.
@@ -7,7 +8,7 @@ Put:
 ---
 
 ###### Power consumption analysis.  
-      Number#: 1  
+       Number: 1  
 Project state: 4f51f26244daa80a04ce5664aafaebc53eb92157  
          Date: 18/03/2021  
      Reporter: Dmitry  
