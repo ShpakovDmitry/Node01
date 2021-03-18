@@ -17,7 +17,11 @@ Project state: 4f51f26244daa80a04ce5664aafaebc53eb92157
       Problem: Too high power consumption, too high energy storage, too high
                PV power.  
 ```
-According to current setup, power consumption analysis showed that worst
+According to current setup,
+
+![BlockScheme](../images/ProjectLogs/number_1/BlockScheme.png)  
+
+power consumption analysis showed that worst
 scenario daily consumed energy is `10.6 W*h`.  
 
 ![PowerConsumption](../images/ProjectLogs/number_1/PowerConsumption.png)  
