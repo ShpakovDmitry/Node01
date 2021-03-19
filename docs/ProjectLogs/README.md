@@ -14,6 +14,7 @@ Put:
 1. [Power consumption analysis](#power-consumption-analysis)
 1. [MPPT controller](#mppt-controller)
 1. [Backup battery](#backup-battery)
+1. [Energy sources](#energy-sources)
 
 ##### Power consumption analysis.
 ```
@@ -88,4 +89,35 @@ maintenance of end device. This is in a contradiction with
 _minimal maintenance concept_ described in device requirements.
 ```
 Solution: exclude backup Li-po battery from design.
+```
+
+###### Energy sources.
+```
+       Number: 4
+Project state: 1ef03a4303f460e012a083986df158970c159b4b
+         Date: 19/03/2021
+     Reporter: Dmitry
+      Problem: What kind of energy sources actually will fit to the design?
+```
+
+According to current setup,
+
+![BlockScheme](images/number_4/BlockScheme.png)
+
+Energy sources used are photovoltaics(PV), thermo-electric generator(TEG),
+radio-frequency energy(RF). Here we assume low cost, small size device is
+desired.
+
+| Energy source |        Pros        |            Cons           |
+|:-------------:|:------------------:|:-------------------------:|
+| RF            | 24/7 operation     | need nearby source, size  |
+| TEG           | 24/7 operation     | good cooling system, size |
+| PV            | cheap, scalability | sunlight required,        |
+
+RF energy source will increase size of the device, also it will suffer
+from RF energy source. TEG requires good cooling system and so will increase
+size of the device. PV will increase size of the device, will operate only when
+sunlight exists. Best candidate for this setup is PV as is cheap, easy scalable.
+```
+Solution: exlude RF, TEG energy sources variant from design. Leave only PV.
 ```
