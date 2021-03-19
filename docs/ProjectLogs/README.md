@@ -15,6 +15,7 @@ Put:
 1. [MPPT controller](#mppt-controller)
 1. [Backup battery](#backup-battery)
 1. [Energy sources](#energy-sources)
+1. [Energy accumulator](#energy-accumulator)
 
 ##### Power consumption analysis.
 ```
@@ -120,4 +121,43 @@ size of the device. PV will increase size of the device, will operate only when
 sunlight exists. Best candidate for this setup is PV as is cheap, easy scalable.
 ```
 Solution: exlude RF, TEG energy sources variant from design. Leave only PV.
+```
+
+###### Energy accumulator.
+```
+       Number: 5
+Project state: 4d961711aa97c4df6a963df5bf95f50167170b24
+         Date: 19/03/2021
+     Reporter: Dmitry
+      Problem: What kind of energy accumulator will fit the best to the design?
+```
+
+Two candidates for current design:
+
+![BlockScheme](images/number_5/BlockScheme.png)
+
+are supercapacitor and LiFePO4 battery.
+
+| Energy accumulator |     supercapacitor      |         LiFePO4           |
+|:------------------:|:-----------------------:|:-------------------------:|
+| Temp. range, C     |      -40...+125         |        -40...+85          |
+| Recharge cycles    |     100k...1000k        |         2k...10k          |
+| Specific en., Wh/kg|      1,5...3,9          |         90...160          |
+| Specific pow., W/g |        2...10           |        0.3...1.5          |
+| Self-discharge     |        weeks            |         months            |
+| Efficiency, %      |         95              |           90              |
+| Working life, y    |        5...10           |          3...5            |
+
+Both accumulators can be used in desired temperature range. LiFePO4 batteries
+are with extended operation temperature range compared with Li-ion batteries.
+However supercapacitors have higher recharge cycle amount, which means lower
+maintenance. Looking at specific energy of accumulator here LiFePO4 battery is
+out of concurence. This however means smaller device size. But supercapacitors
+have higher specific power. But this criteria is not so meaningfuls as device
+it self is low power. LiFePO4 self-discharge parameter is definitelly a win,
+because any energy leakage means higher battery capacity or higher PV power.
+Efficienty of both are comparable. And five years working life is acceptable.
+So, for current design will stay at LiFePO4 batteries.
+```
+Solution: Use LIFePO4 battery.
 ```
