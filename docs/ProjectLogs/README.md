@@ -55,7 +55,7 @@ Project state: 83ee388a7370879099274ff98fa68130488713f3
 If we assume that there is minimum 5 hour of sun a day then `0.43 W` PV is
 needed. If accept that energy converter is 80% efficient, then we need
 `0.54 W` PV. According to `AEM10941` [datasheet](../datasheet/DS_AEM10941.pdf)
-maximal harvesting power is `0.550 mW` at `5 V` input voltage.
+maximal harvesting power is `550 mW` at `5 V` input voltage.
 
 ```
 Solution: AEM10941 is suitable for this setup.
