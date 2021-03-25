@@ -46,8 +46,8 @@ of operation. Hardware are accessed throught API.
 
 ###  Progress checklist
 **Documentation**
-- [ ] Technical specifications added.
-- [ ] Power consumption analysis.
+- [x] Technical specifications added.
+- [x] Power consumption analysis.
 - [ ] Description.
 - [ ] Hardware.
 - [ ] Source.
