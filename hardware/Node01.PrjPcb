@@ -56,13 +56,13 @@ GenerateClassCluster=0
 DocumentUniqueId=PREDWQFD
 
 [Document2]
-DocumentPath=02_nRF52840.SchDoc
+DocumentPath=02_nRF52840_power_clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
