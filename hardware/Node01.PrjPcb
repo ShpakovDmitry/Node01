@@ -140,6 +140,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFYGFLXB
 
+[Document7]
+DocumentPath=07_nRF52840_Digital.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ICXVJEMV
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
