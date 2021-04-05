@@ -123,6 +123,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHUBVARB
 
+[Document6]
+DocumentPath=06_nRF52840_Analog.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFYGFLXB
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
