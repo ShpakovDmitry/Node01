@@ -157,6 +157,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSWEDVDL
 
+[Document8]
+DocumentPath=library\symbols\Capacitors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SJMCRSFP
+
 [Parameter1]
 Name=GlobalProjectName
 Value=PCB_Project
