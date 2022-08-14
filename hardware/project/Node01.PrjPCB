@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UOCJBUQT
 
 [Document2]
-DocumentPath=schematics\01-Block-Diagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ECTVTEFQ
-
-[Document3]
 DocumentPath=PCB\PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document3]
+DocumentPath=schematics\01-Change-Log.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QWHVVRGN
+
 [Document4]
+DocumentPath=schematics\02-Block-Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ECTVTEFQ
+
+[Document5]
 DocumentPath=library\symbols\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,15 +121,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SJMCRSFP
 
 [Parameter1]
 Name=GlobalProjectName
-Value=Node01
+Value=PCB_Project
 
 [Parameter2]
 Name=GlobalRevision
-Value=Rev. 2.0.
+Value=Rev. 0.1.
 
 [Configuration1]
 Name=Sources
