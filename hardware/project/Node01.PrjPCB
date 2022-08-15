@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UOCJBUQT
 
 [Document2]
-DocumentPath=PCB\PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
 DocumentPath=schematics\01-Change-Log.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWHVVRGN
 
-[Document4]
+[Document3]
 DocumentPath=schematics\02-Block-Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECTVTEFQ
 
-[Document5]
+[Document4]
 DocumentPath=library\symbols\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJMCRSFP
 
-[Document6]
+[Document5]
 DocumentPath=library\symbols\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXDTYNPA
 
-[Document7]
+[Document6]
 DocumentPath=library\symbols\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSWEDVDL
 
-[Document8]
+[Document7]
 DocumentPath=library\symbols\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,13 +157,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJMCRSFP
 
+[Document8]
+DocumentPath=schematics\03-Energy-Harvester.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKLGNHKF
+
+[Document9]
+DocumentPath=PCB\PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HNOMWEMI
+
 [Parameter1]
-Name=GlobalProjectName
-Value=PCB_Project
+Name=GlobalRevision
+Value=Rev. 2.0.
 
 [Parameter2]
-Name=GlobalRevision
-Value=Rev. 0.1.
+Name=GlobalProjectName
+Value=Node01
 
 [Configuration1]
 Name=Sources
