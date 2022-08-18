@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=01-Title-Page.SchDoc
+Record=SheetSymbol|SourceDocument=01-Title-Page.SchDoc|Designator=Block-Diagram|SchDesignator=Block-Diagram|FileName=03-Block-Diagram.SchDoc|SymbolType=Normal|RawFileName=03-Block-Diagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=01-Title-Page.SchDoc|Designator=ChangeLog|SchDesignator=ChangeLog|FileName=02-Change-Log.SchDoc|SymbolType=Normal|RawFileName=02-Change-Log.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=03-Block-Diagram.SchDoc|Designator=Energy-Harvester|SchDesignator=Energy-Harvester|FileName=04-Energy-Harvester.SchDoc|SymbolType=Normal|RawFileName=04-Energy-Harvester.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
