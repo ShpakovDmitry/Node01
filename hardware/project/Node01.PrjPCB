@@ -130,7 +130,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -147,7 +147,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -164,7 +164,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -181,7 +181,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -294,12 +294,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=GlobalProjectName
-Value=Node01
-
-[Parameter2]
 Name=GlobalRevision
 Value=Rev. 2.0.
+
+[Parameter2]
+Name=GlobalProjectName
+Value=Node01
 
 [Configuration1]
 Name=Sources
@@ -1160,7 +1160,7 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
