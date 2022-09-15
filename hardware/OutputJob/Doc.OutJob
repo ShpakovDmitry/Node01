@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=E:\2_Projects\Node01\hardware\OutputFiles\Doc.PDF
+OutputFilePath2=E:\2_Projects\Node01\hardware\OutputFiles\Schematics.pdf
 ReleaseManaged2=0
 OutputBasePath2=E:\2_Projects\Node01\hardware\OutputFiles\
 OutputPathMedia2=
@@ -61,8 +61,8 @@ OutputFileName2=Schematics.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
-OpenOutput2=1
-PromptOverwrite2=1
+OpenOutput2=0
+PromptOverwrite2=0
 PublishMethod2=0
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
@@ -128,8 +128,8 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\2_Projects\Node01\hardware\OutputFiles\Doc.PDF
-OpenOutputs2=1
+RelativeOutputPath2=E:\2_Projects\Node01\hardware\OutputFiles\Schematics.pdf
+OpenOutputs2=0
 RelativeOutputPath3=
 OpenOutputs3=1
 AddToProject3=1
